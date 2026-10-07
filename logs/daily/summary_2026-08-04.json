@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-04",
+  "site_url": "https://marquardt-tun.com",
+  "total_checks": 19,
+  "success_count": 19,
+  "failure_count": 0,
+  "warning_count": 0,
+  "last_check": "2026-08-04T18:09:30.796039",
+  "last_status": "OK",
+  "checks": [
+    {
+      "timestamp": "2026-08-04T15:09:04.145407",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.745015,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T15:19:04.871630",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.770487,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T15:29:06.105868",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.761429,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T15:39:07.820076",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.805882,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T15:49:09.140935",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.791529,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T15:59:10.759190",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.787073,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T16:09:12.237658",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.780734,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T16:19:14.340031",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.246547,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T16:29:16.248015",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.125653,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T16:39:17.931052",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.878124,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T16:49:19.430995",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.844077,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T16:59:20.904554",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.837607,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T17:09:22.410817",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.873881,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T17:19:23.846311",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.795434,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T17:29:25.845572",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.573907,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T17:39:27.119244",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.85079,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T17:49:28.381740",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.82233,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T17:59:29.590955",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.786316,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-08-04T18:09:30.796039",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.770989,
+        "error": null
+      }
+    }
+  ]
+}

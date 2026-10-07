@@ -1,0 +1,2757 @@
+{
+  "date": "2026-07-15",
+  "site_url": "https://marquardt-tun.com",
+  "total_checks": 305,
+  "success_count": 305,
+  "failure_count": 0,
+  "warning_count": 0,
+  "last_check": "2026-07-17T11:30:21.050537",
+  "last_status": "OK",
+  "checks": [
+    {
+      "timestamp": "2026-07-15T08:32:24.900882",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.736025,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T08:42:25.201909",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.851733,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T08:52:26.470952",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.864993,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T09:02:28.201618",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.9063,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T09:12:29.950776",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.785911,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T09:22:31.367014",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.855314,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T09:32:38.543004",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 6.407324,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T09:42:39.985951",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.009764,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T09:52:43.942681",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 3.408312,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T10:02:46.171659",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.601617,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T10:12:49.033225",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.851287,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T10:22:50.676456",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.816145,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T10:32:52.294968",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.088869,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T10:42:53.558839",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.884064,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T10:52:54.584981",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.916488,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T11:02:55.979479",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.844511,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T11:12:58.496797",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.83026,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T11:23:00.307038",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.826573,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T11:33:01.355502",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.875912,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T11:43:02.785065",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.931677,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T11:53:04.298747",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.794087,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T12:03:06.041736",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.924543,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T12:13:07.973050",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.890059,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T12:23:09.585344",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.862339,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T12:33:16.968642",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 6.433747,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T12:43:18.486073",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.832882,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T12:53:19.629221",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.035531,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T13:03:21.554386",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.887506,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T13:13:22.756439",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.903163,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T13:23:23.836986",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.832128,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T13:34:18.845391",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 54.615557,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T13:44:22.516922",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.803306,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T13:54:23.886304",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.812196,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T14:04:25.994146",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.380806,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T14:14:29.465518",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.656817,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T14:24:32.290856",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.028981,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T14:34:35.869722",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.524333,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T14:49:21.274562",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.719008,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T14:59:22.384806",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.893868,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T15:09:23.880805",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.856873,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T15:19:25.676755",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.88416,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T15:29:27.085005",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.894263,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T15:39:28.929936",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.868405,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T15:49:30.346558",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.899504,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T15:59:32.564908",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.919286,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T16:09:34.388598",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.889668,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T16:19:35.932852",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.841521,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T16:29:37.624159",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.687298,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T16:39:39.132154",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.695746,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T16:49:40.465865",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.690717,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T16:59:41.780979",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.67979,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T17:09:43.223151",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.671673,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T17:19:44.591004",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.706324,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T17:29:45.909152",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.674644,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T17:39:47.357913",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.802753,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T17:49:48.716020",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.680191,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T17:59:50.088977",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.74206,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T18:09:51.392016",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.672391,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T18:19:52.812540",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.765916,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T18:29:54.188299",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.73631,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T18:39:55.495864",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.668098,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T18:49:56.806402",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.673719,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T18:59:58.302264",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.864553,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T19:09:59.647012",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.71829,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T19:20:01.038956",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.740248,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T19:30:02.667341",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.98242,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T19:40:04.075027",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.774377,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T19:50:05.402020",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.684306,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T20:00:06.907861",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.874206,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T20:10:08.221842",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.679809,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T20:20:09.529588",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.668966,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T20:30:11.102648",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.942008,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T20:40:12.400491",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.668807,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T20:50:13.754623",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.705019,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T21:00:15.252264",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.861456,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T21:10:16.661404",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.761647,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T21:20:17.984249",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.690594,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T21:30:19.543022",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.921396,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T21:40:20.871169",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.693533,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T21:50:22.192366",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.695641,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T22:00:23.699657",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.866905,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T22:10:25.025690",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.693037,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T22:20:26.333303",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.671547,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T22:30:27.890947",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.916168,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T22:40:29.219707",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.6931,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T22:50:30.546477",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.694838,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T23:00:32.045537",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.862998,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T23:10:33.374471",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.696837,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T23:20:34.709751",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.695087,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T23:30:36.268641",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.920999,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T23:40:37.598254",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.698552,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-15T23:50:38.910453",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.682714,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T00:00:40.791243",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.85772,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T00:10:42.426707",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.683897,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T00:20:43.734963",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.667343,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T00:30:45.201399",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.875389,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T00:40:48.391398",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.820864,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T00:50:49.589139",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.828633,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T01:00:51.781059",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.81564,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T01:10:54.075611",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.894261,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T01:20:55.395806",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.901264,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T01:30:56.642604",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.864131,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T01:40:58.904878",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.874786,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T01:51:00.093134",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.81625,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T02:01:01.316114",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.845332,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T02:11:03.579062",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.868525,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T02:21:04.823753",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.851925,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T02:31:06.025160",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.827873,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T02:41:07.220332",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.821781,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T02:51:08.461874",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.848768,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T03:01:09.746167",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.877236,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T03:11:11.036501",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.907738,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T03:21:12.203019",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.792762,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T03:31:13.389268",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.800011,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T03:41:14.675106",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.897004,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T03:51:15.911577",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.862532,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T04:01:17.134902",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.842548,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T04:11:18.324649",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.808757,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T04:21:19.531408",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.84136,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T04:31:20.810376",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.893943,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T04:41:23.131474",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.93478,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T04:51:24.426624",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.91828,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T05:01:25.675944",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.870145,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T05:11:27.993834",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.923495,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T05:21:29.248092",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.860121,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T05:31:30.488501",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.86107,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T05:41:32.709849",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.832183,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T05:51:33.963444",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.871256,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T06:01:35.177770",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.836851,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T06:11:36.477999",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.882474,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T06:21:37.693032",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.819114,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T06:31:38.929184",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.838585,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T06:41:41.141186",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.828312,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T06:51:42.346121",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.827782,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T07:01:43.611715",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.817389,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T07:11:45.896431",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.883586,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T07:21:47.117860",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.825394,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T07:31:48.336820",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.834187,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T07:41:50.633086",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.880661,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T07:51:51.812651",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.795665,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T08:01:53.059057",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.862643,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T08:11:55.364333",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.895149,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T08:21:56.544679",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.801908,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T08:31:57.760822",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.840993,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T08:41:59.982107",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.831,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T08:52:01.635793",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.842164,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T09:02:03.858234",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.444128,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T09:12:07.156616",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.441842,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T09:22:09.857638",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.067137,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T09:32:11.347827",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.951829,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T09:42:13.624291",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.832469,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T09:52:15.007880",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.94194,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T10:02:16.315064",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.874877,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T10:12:18.721313",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.931895,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T10:22:21.267662",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.928182,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T10:32:22.755141",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.920691,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T10:42:25.101537",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.622245,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T10:52:27.568697",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.502015,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T11:02:29.331339",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.816724,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T11:12:30.892567",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.956723,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T11:22:33.154796",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.78261,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T11:32:36.258472",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.505117,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T11:42:38.769050",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.635651,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T11:52:40.250085",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.703978,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T12:02:41.212512",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.685142,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T12:12:42.355007",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.725232,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T12:22:43.888854",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.746526,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T12:32:45.926828",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.237998,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T12:42:53.299720",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 6.398171,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T12:53:13.168328",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 16.864275,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T13:06:53.382695",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 184.781107,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T13:16:57.511175",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.876317,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T13:26:59.246715",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.773239,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T13:37:01.042895",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.676392,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T13:47:02.428766",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.71917,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T13:57:03.780948",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.706333,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T14:07:05.141814",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.710123,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T14:17:06.130969",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.727364,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T14:27:18.863459",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 12.52789,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T14:37:22.608622",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 3.233176,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T14:47:24.964900",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.725397,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T14:57:26.929969",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.259346,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T15:07:29.140500",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.734242,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T15:17:30.750906",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.808206,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T15:27:32.040638",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.774266,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T15:37:36.094193",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.539734,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T15:47:39.783039",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.456704,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T15:57:43.056913",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.664438,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T16:07:45.011343",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.703042,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T16:17:46.924405",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.0853,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T16:27:47.990743",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.691468,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T16:37:48.942232",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.686075,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T16:47:50.244231",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.726351,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T16:57:51.326698",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.700269,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T17:07:52.675613",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.861998,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T17:17:53.753041",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.821396,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T17:27:55.056902",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.808133,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T17:37:56.676922",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.906848,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T17:47:57.904010",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.812527,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T17:57:59.223534",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.856557,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T18:08:00.548133",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.914873,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T18:18:01.831004",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.852669,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T18:28:03.129781",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.84073,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T18:38:04.416011",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.887704,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T18:48:05.639420",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.812314,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T18:58:06.884919",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.823575,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T19:08:08.164630",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.852753,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T19:18:09.460228",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.902758,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T19:28:10.732551",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.853049,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T19:38:12.002041",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.850554,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T19:48:13.235118",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.812847,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T19:58:14.465453",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.832912,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T20:08:15.756283",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.883805,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T20:18:17.000262",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.837534,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T20:28:18.254615",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.864595,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T20:38:19.468789",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.814011,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T20:48:20.788224",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.863301,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T20:58:22.051037",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.820153,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T21:08:23.343477",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.872348,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T21:18:24.648148",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.860893,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T21:28:25.893387",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.845198,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T21:38:27.368637",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.049823,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T21:48:28.881422",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.096264,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T21:58:30.161973",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.875509,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T22:08:31.410963",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.851708,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T22:18:32.628546",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.813448,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T22:28:33.867516",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.829462,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T22:38:35.110649",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.840957,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T22:48:36.369042",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.856221,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T22:58:37.660295",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.874845,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T23:08:38.935580",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.831391,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T23:18:40.255385",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.882545,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T23:28:41.526980",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.863915,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T23:38:42.754558",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.829407,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T23:48:44.036033",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.841812,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-16T23:58:45.303969",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.870771,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T00:08:47.444399",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.109202,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T00:18:48.684872",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.836921,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T00:28:49.912149",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.827826,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T00:38:51.172263",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.84708,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T00:48:52.444107",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.86243,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T00:58:53.714274",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.847117,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T01:08:54.967187",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.830104,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T01:18:56.244074",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.857597,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T01:28:57.545790",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.913391,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T01:38:58.786906",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.818673,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T01:48:59.993110",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.821763,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T01:59:01.256898",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.862632,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T02:09:02.518350",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.871983,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T02:19:03.783078",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.873969,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T02:29:05.080584",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.897679,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T02:39:06.350153",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.850899,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T02:49:07.568927",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.828074,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T02:59:08.824351",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.8465,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T03:09:10.086554",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.84149,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T03:19:12.390930",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.905656,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T03:29:13.678434",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.88497,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T03:39:14.981959",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.814804,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T03:49:16.198009",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.825426,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T03:59:17.511130",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.903476,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T04:09:18.823179",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.89967,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T04:19:20.063003",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.859666,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T04:29:21.386343",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.893105,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T04:39:22.614269",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.833019,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T04:49:23.892786",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.88556,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T04:59:25.146412",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.835963,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T05:09:26.442904",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.887395,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T05:19:27.776196",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.906408,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T05:29:29.054978",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.856956,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T05:39:30.321570",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.820468,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T05:49:31.597428",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.868822,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T05:59:32.876390",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.851864,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T06:09:34.148144",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.875232,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T06:19:35.360950",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.815267,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T06:29:36.632984",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.874129,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T06:39:37.890772",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.838282,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T06:49:39.194542",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.884756,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T06:59:40.409264",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.80845,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T07:09:41.660692",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.86073,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T07:19:42.956816",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.878213,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T07:29:44.198570",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.841398,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T07:39:45.425408",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.828672,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T07:49:46.666551",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.834899,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T07:59:47.882161",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.80804,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T08:09:49.108369",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.816932,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T08:19:50.392752",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.864408,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T08:29:51.637900",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.842064,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T08:39:54.287731",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.815595,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T08:49:55.292787",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.811526,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T08:59:56.643294",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.904145,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T09:09:57.891667",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.893155,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T09:19:58.888926",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.825277,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T09:30:01.028979",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.656863,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T09:40:03.441880",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.8615,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T09:50:04.626959",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.915448,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T10:00:06.046754",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.023147,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T10:10:07.151849",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.875585,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T10:20:08.153779",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.934802,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T10:30:09.796409",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.855157,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T10:40:10.854514",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.841488,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T10:50:11.901195",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.842195,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T11:00:16.817007",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 4.190081,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T11:10:18.005711",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.920907,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T11:20:19.658428",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.883488,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-17T11:30:21.050537",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.949747,
+        "error": null
+      }
+    }
+  ]
+}

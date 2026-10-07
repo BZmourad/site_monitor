@@ -1,0 +1,136 @@
+2026-07-09 11:30:48,625 - SiteMonitor - INFO - [main.py:173] - ==================================================
+2026-07-09 11:30:48,626 - SiteMonitor - INFO - [main.py:174] - 🚀 Démarrage du service de monitoring
+2026-07-09 11:30:48,626 - SiteMonitor - INFO - [main.py:175] - ==================================================
+2026-07-09 11:30:48,626 - SiteMonitor - INFO - [main.py:176] - 📅 Date: 2026-07-09 11:30:48
+2026-07-09 11:30:48,626 - SiteMonitor - INFO - [main.py:178] - 🌐 Sites à surveiller (1): https://marquardt-tun.com
+2026-07-09 11:30:48,626 - SiteMonitor - INFO - [main.py:179] - ⏱️  Intervalle: 600s
+2026-07-09 11:30:48,627 - SiteMonitor - INFO - [main.py:180] - 🔒 Vérification SSL: Activée
+2026-07-09 11:30:48,627 - SiteMonitor - INFO - [main.py:182] - 📧 Alertes envoyées à: mourad.bouzidi.1996@gmail.com, gbitunisiedev@gmail.com, snoussihamza396@gmail.com, wadie.bnh@gmail.com
+2026-07-09 11:30:48,627 - SiteMonitor - INFO - [main.py:183] - 📁 Répertoire des logs: C:\laragon\www\GBI\site_monitor\logs
+2026-07-09 11:30:48,627 - SiteMonitor - INFO - [main.py:184] - 📝 Conservation des logs: 30 jours
+2026-07-09 11:30:48,627 - SiteMonitor - INFO - [main.py:185] - ==================================================
+2026-07-09 11:30:48,627 - SiteMonitor - INFO - [main.py:188] - 
+🔍 Tests de configuration...
+2026-07-09 11:30:48,628 - SiteMonitor - INFO - [main.py:60] - Test de la configuration email...
+2026-07-09 11:30:49,298 - SiteMonitor - INFO - [main.py:66] - ✅ Configuration email OK
+2026-07-09 11:30:49,340 - SiteMonitor - INFO - [main.py:76] - Test de connectivité vers https://marquardt-tun.com...
+2026-07-09 11:30:50,540 - SiteMonitor - INFO - [main.py:84] - ✅ https://marquardt-tun.com accessible - Code HTTP: 200
+2026-07-09 11:30:50,540 - SiteMonitor - INFO - [main.py:207] - 
+✅ Service démarré - Surveillance en cours...
+2026-07-09 11:30:50,541 - SiteMonitor - INFO - [main.py:208] - Appuyez sur Ctrl+C pour arrêter
+
+2026-07-09 11:30:51,954 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 11:40:52,118 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 11:50:54,390 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 12:00:56,532 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 12:10:58,217 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 12:21:02,067 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 12:31:10,187 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 12:41:12,799 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 12:51:18,553 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 13:01:20,319 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 13:12:25,827 - MonitorStatus - ERROR - [logger_manager.py:206] - ❌ CHECK FAILED - https://marquardt-tun.com - Erreur: {'http_status': None, 'response_time': None, 'error': "Erreur de connexion: HTTPSConnectionPool(host='marquardt-tun.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='marquardt-tun.com', port=443) at 0x1ddb4ffa350>, 'Connection to marquardt-tun.com timed out. (connect timeout=30)'))"}
+2026-07-09 13:12:25,875 - SiteMonitor - WARNING - [main.py:122] - Problème sur https://marquardt-tun.com (échec 1/1)
+2026-07-09 13:13:10,158 - SiteMonitor - INFO - [main.py:126] - Alerte email envoyée pour https://marquardt-tun.com
+2026-07-09 13:23:13,576 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 13:23:13,604 - SiteMonitor - INFO - [main.py:131] - ✅ https://marquardt-tun.com rétabli après échecs
+2026-07-09 13:33:21,970 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 13:43:23,606 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 13:53:27,207 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 14:03:30,605 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 14:13:35,009 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 14:23:37,295 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 14:33:39,702 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 14:43:41,796 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 14:53:45,116 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 15:03:47,163 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 15:13:50,831 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 15:23:54,767 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 15:33:58,308 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 15:44:00,558 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 15:54:03,411 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 16:04:06,745 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 16:14:35,786 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 16:24:42,360 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 16:34:46,075 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 16:44:48,524 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 16:54:50,815 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 17:05:09,413 - MonitorStatus - ERROR - [logger_manager.py:206] - ❌ CHECK FAILED - https://marquardt-tun.com - Erreur: {'http_status': None, 'response_time': None, 'error': "Erreur de connexion: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+2026-07-09 17:05:25,639 - SiteMonitor - WARNING - [main.py:122] - Problème sur https://marquardt-tun.com (échec 1/1)
+2026-07-09 17:05:33,484 - SiteMonitor - INFO - [main.py:126] - Alerte email envoyée pour https://marquardt-tun.com
+2026-07-09 17:15:35,309 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 17:15:35,341 - SiteMonitor - INFO - [main.py:131] - ✅ https://marquardt-tun.com rétabli après échecs
+2026-07-09 17:18:06,807 - SiteMonitor - INFO - [main.py:173] - ==================================================
+2026-07-09 17:18:06,807 - SiteMonitor - INFO - [main.py:174] - 🚀 Démarrage du service de monitoring
+2026-07-09 17:18:06,807 - SiteMonitor - INFO - [main.py:175] - ==================================================
+2026-07-09 17:18:06,807 - SiteMonitor - INFO - [main.py:176] - 📅 Date: 2026-07-09 17:18:06
+2026-07-09 17:18:06,807 - SiteMonitor - INFO - [main.py:178] - 🌐 Sites à surveiller (1): https://marquardt-tun.com
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:179] - ⏱️  Intervalle: 600s
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:180] - 🔒 Vérification SSL: Activée
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:182] - 📧 Alertes envoyées à: mourad.bouzidi.1996@gmail.com, gbitunisiedev@gmail.com, snoussihamza396@gmail.com, wadie.bnh@gmail.com
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:183] - 📁 Répertoire des logs: C:\laragon\www\GBI\site_monitor\logs
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:184] - 📝 Conservation des logs: 30 jours
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:185] - ==================================================
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:188] - 
+🔍 Tests de configuration...
+2026-07-09 17:18:06,808 - SiteMonitor - INFO - [main.py:60] - Test de la configuration email...
+2026-07-09 17:18:07,284 - SiteMonitor - INFO - [main.py:66] - ✅ Configuration email OK
+2026-07-09 17:18:07,328 - SiteMonitor - INFO - [main.py:76] - Test de connectivité vers https://marquardt-tun.com...
+2026-07-09 17:18:08,669 - SiteMonitor - INFO - [main.py:84] - ✅ https://marquardt-tun.com accessible - Code HTTP: 200
+2026-07-09 17:18:08,670 - SiteMonitor - INFO - [main.py:207] - 
+✅ Service démarré - Surveillance en cours...
+2026-07-09 17:18:08,670 - SiteMonitor - INFO - [main.py:208] - Appuyez sur Ctrl+C pour arrêter
+
+2026-07-09 17:18:10,157 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 17:28:10,617 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 17:38:13,574 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 17:48:15,687 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 17:58:17,579 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 18:08:20,537 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 18:18:22,664 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 18:28:24,682 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 18:38:27,743 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 18:48:30,018 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 18:58:31,969 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 19:08:34,863 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 19:18:36,790 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 19:28:38,847 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 19:38:41,939 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 19:48:44,055 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 19:58:46,097 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 20:08:49,183 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 20:18:51,203 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 20:28:53,608 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 20:38:57,095 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 20:48:59,018 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 20:59:01,149 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 21:09:04,062 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 21:19:06,078 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 21:29:08,074 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 21:39:11,043 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 21:49:13,331 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 21:59:15,553 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 22:09:18,511 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 22:19:20,410 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 22:29:22,381 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 22:39:25,348 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 22:49:27,376 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 22:59:29,488 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 23:09:32,447 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 23:19:34,425 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 23:29:36,267 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 23:39:39,177 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 23:49:41,447 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com
+2026-07-09 23:59:00,907 - SiteMonitor - INFO - [main.py:161] - 
+        📊 Résumé du 2026-07-09
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Site: https://marquardt-tun.com
+        Checks totaux: 75
+        ✅ Succès: 73
+        ⚠️ Warnings: 0
+        ❌ Échecs: 2
+        📈 Uptime: 97.33%
+        🕐 Dernier check: 2026-07-09T23:49:41.447424
+        📌 Dernier statut: OK
+        
+2026-07-09 23:59:43,440 - MonitorStatus - INFO - [logger_manager.py:200] - ✅ CHECK OK - https://marquardt-tun.com

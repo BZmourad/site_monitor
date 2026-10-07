@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-22",
+  "site_url": "https://marquardt-tun.com",
+  "total_checks": 17,
+  "success_count": 16,
+  "failure_count": 1,
+  "warning_count": 0,
+  "last_check": "2026-07-22T11:56:52.172088",
+  "last_status": "OK",
+  "checks": [
+    {
+      "timestamp": "2026-07-22T09:15:51.800583",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.729312,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T09:25:52.533732",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.77367,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T09:35:53.805754",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.78839,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T09:45:54.918955",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.789022,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T09:55:56.207473",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.838069,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T10:05:58.594888",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.777685,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T10:16:00.357134",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.785877,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T10:26:02.150313",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.891205,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T10:36:03.656573",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.147825,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T10:46:07.219937",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 3.205423,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T10:56:12.194148",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 2.390083,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T11:06:14.694860",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.887868,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T11:16:18.754186",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.834849,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T11:26:21.424466",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.406093,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T11:36:23.350549",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 0.827966,
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-07-22T11:46:37.010491",
+      "status": "ERROR",
+      "details": {
+        "http_status": null,
+        "response_time": null,
+        "error": "Erreur de connexion: HTTPSConnectionPool(host='marquardt-tun.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='marquardt-tun.com', port=443): Failed to resolve 'marquardt-tun.com' ([Errno 11001] getaddrinfo failed)\"))"
+      }
+    },
+    {
+      "timestamp": "2026-07-22T11:56:52.172088",
+      "status": "OK",
+      "details": {
+        "http_status": 200,
+        "response_time": 1.728849,
+        "error": null
+      }
+    }
+  ]
+}

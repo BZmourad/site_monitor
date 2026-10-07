@@ -1,0 +1,16 @@
+
+
+#installer
+install_scheduled_task.bat
+
+# Voir l'état
+schtasks /query /tn SiteMonitorService
+
+#arrêter le monitoring
+schtasks /end /tn SiteMonitorService
+
+#redémarrer
+schtasks /run /tn SiteMonitorService
+
+#delete
+schtasks /delete /tn SiteMonitorService /f
